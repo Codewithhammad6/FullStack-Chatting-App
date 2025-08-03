@@ -11,7 +11,11 @@ import {Toaster} from "react-hot-toast"
 
 
 function App() {
-const {authUser,checkAuth,isCheckingAuth,onlineUsers}=useAuthStore()
+const {authUser,
+       checkAuth,
+       isCheckingAuth,
+       onlineUsers
+      }=useAuthStore()
 
 console.log({onlineUsers})
 
