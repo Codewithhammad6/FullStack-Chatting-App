@@ -1,6 +1,6 @@
 # 💬 WhatsApp Clone - Full Stack Chat Application
 
-![Demo](https://github.com/CodeWithHammad6/chat-app/blob/main/public/demo.gif?raw=true)
+![Demo](https://user-images.githubusercontent.com/26368939/162622038-e6d6f8b7-5a13-4a3d-8a6b-4d6e5e5f5a9f.gif)
 
 A real-time messaging app with:
 - ✨ **1:1 & group chats**
