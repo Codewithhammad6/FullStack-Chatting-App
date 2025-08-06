@@ -1,12 +1,8 @@
 # 💬 WhatsApp Clone - Full Stack Chat Application
 
-![My Chat App](https://github.com/yourusername/repo/blob/main/assets/chat-screenshot.png?raw=true)
-💬 **Chat Preview**  
-┌───────────────────────────┐  
-│ You: Hi there! 👋         │  
-│ Friend: Hello! 🚀         │  
-│ You: Check this demo →    │  
-└───────────────────────────┘
+![WhatsApp Clone Chat](https://user-images.githubusercontent.com/26368939/162622038-e6d6f8b7-5a13-4a3d-8a6b-4d6e5e5f5a9f.png)
+
+
 A real-time messaging app with:
 - ✨ **1:1 & group chats**
 - 🔒 **User authentication**
