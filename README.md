@@ -1,6 +1,8 @@
 # 💬 WhatsApp Clone - Full Stack Chat Application
 
-![WhatsApp Logo](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo" width="120" />
+</div>
 
 A real-time messaging app with:
 - ✨ **1:1 & group chats**
@@ -11,14 +13,14 @@ A real-time messaging app with:
 
 ## 🛠 Tech Stack
 **Frontend**:  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" alt="React" height="24" /> 
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io" alt="Socket.io" height="24" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css" alt="Tailwind CSS" height="24" />
 
 **Backend**:  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs" alt="Node.js" height="24" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express" alt="Express" height="24" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB" height="24" />
 
 ## 🚀 Quick Start
 
