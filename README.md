@@ -1,6 +1,6 @@
 # 💬 WhatsApp Clone - Full Stack Chat Application
 
-![WhatsApp-like Chat App](https://i.imgur.com/Jm6h8OY.png)
+![WhatsApp Clone Screenshot](https://i.imgur.com/3Q1TnNH.png)
 
 A real-time messaging app with:
 - ✨ **1:1 & group chats**
